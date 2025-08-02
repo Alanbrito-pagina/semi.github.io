@@ -5,7 +5,7 @@ Este proyecto se realizo con el fin de incentivar el voto activo de los jovenes.
 
 Puedes ver el resultado final de este proyecto aquí:
 
-[Enlace a tu página web](https://github.com/Alanbrito-pagina/semi.github.io.git)
+[Página-semi](https://github.com/Alanbrito-pagina/semi.github.io.git)
 
 
 Este proyecto es una página web simple creada como parte de un trabajo escolar. Los objetivos principales fueron:
