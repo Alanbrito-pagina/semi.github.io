@@ -21,8 +21,9 @@ Las tecnologias que se usaron fueron:
 * **CANVA** Para la creacion de imagenes.
   
 ## Fue realizado por alumnos del Liceo Técnico "San Juan"
-## Asesora de seminario: Lic. Griselda Larios
-## Grupo 1 Seminaristas
+## Asesora de seminario: 
+* Lic. Griselda Larios
+## Grupo 1 Seminaristas conformado por:
 
 * Alan Subuyuj Palacios
 * Hector Giovanny
