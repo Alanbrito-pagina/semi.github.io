@@ -19,7 +19,9 @@ Las tecnologias que se usaron fueron:
 * **HTML5:** Para la estructura de la página.
 * **CSS:** Para el diseño y la presentación.
 * **CANVA** Para la creacion de imagenes.
-
+  
+## Fue realizado por alumnos del Liceo Técnico "San Juan"
+## Asesora de seminario: Lic. Griselda Larios
 ## Grupo 1 Seminaristas
 
 * Alan Subuyuj Palacios
